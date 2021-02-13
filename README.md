@@ -1,44 +1,29 @@
-# CalculodeInvestimento
-Em Portugol, sistema de cálculo de investimento anual. 
+# Cálculo de Investimento Anual
 
-algoritmo "CalculodeInvestimento"
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/CalculodeInvestimento/commit/beb11fc39a7a54b1e4138e25a6ae7c3cfd3cb977)
 
-var
-   a:inteiro
-   invest: real
-   valor:real
-   juros:real
-   resp:caracter
+  
 
-inicio
+#  Sobre o projeto
 
+  
 
+Em Portugol, Aplicação que calcula o investimento anual. 
 
-   escreval ("Cálculo de Investimento")
+  
+#  Tecnologias utilizadas
 
-   escreva("Informe o investimento inicial:")
-   leia(valor)
-   escreva("Informe o valor investido:")
-   leia(invest)
-   escreva("Informe a taxa de juros (%): ")
-   leia(juros)
-   escreval("")
-   enquanto resp<>"n"faca
-      para a de 1 ate 12 faca
+##  Visualg
 
-         valor :=  (valor+valor*juros+invest)
-         escreval(a, "°= R$",valor:1:2)
-
-      fimpara
-
-      escreval("..........................")
-      escreval("Continuar?s/n")
-      leia(resp)
+- Portugol
 
 
+#  Autor
 
-   fimenquanto
+  
 
+Beatriz Alves
 
+  
 
-fimalgoritmo
+https://www.linkedin.com/in/beatriz2071/
