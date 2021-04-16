@@ -8,7 +8,7 @@
 
   
 
-Em Portugol, Aplicação que calcula o investimento anual. 
+Em Portugol, aplicação que calcula o investimento anual. 
 
   
 #  Tecnologias utilizadas
